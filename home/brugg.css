@@ -149,4 +149,21 @@ img {
 	#project-section{
 		margin: auto;
 	}
+
+	#contact{
+		flex-direction: column;
+		align-items: center;
+	}
+
+	#contact-section{
+		line-height: 10vh;
+	}
+
+	#footer{
+		flex-direction: column;
+	}
+
+	#footer h6{
+		margin: 0;
+	}
 }
