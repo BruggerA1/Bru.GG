@@ -155,6 +155,10 @@ img {
 		align-items: center;
 	}
 
+	#welcome-section{
+		margin-top: -15vh;
+	}
+
 	#contact-section{
 		line-height: 10vh;
 	}
